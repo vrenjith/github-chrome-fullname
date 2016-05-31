@@ -16,7 +16,8 @@
             "https://huboard.mo.sap.corp/*",
             "https://*.sap.corp/*",
             "https://*.sap.com/*",
-            
+            "https://ariba-mattermost.com",
+            "https://*.ariba.com"
         ]
     }],
     "icons": {
