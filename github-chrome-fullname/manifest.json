@@ -13,7 +13,10 @@
         ],
         "matches": [
             "https://github.wdf.sap.corp/*",
-            "https://huboard.mo.sap.corp/*"
+            "https://huboard.mo.sap.corp/*",
+            "https://*.sap.corp/*",
+            "https://*.sap.com/*",
+            
         ]
     }],
     "icons": {
